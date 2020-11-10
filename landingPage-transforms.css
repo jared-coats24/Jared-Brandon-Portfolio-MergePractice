@@ -1,0 +1,9 @@
+.listOption{
+    font-size: 8px;
+    text-align: center;
+}
+
+.listOption:hover{
+    font-size: 28px;
+    transition: all 1s step-start;
+}
